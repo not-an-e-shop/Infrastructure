@@ -1,0 +1,3 @@
+[submodule "Deploy/Vagrant-kubeadm-k8s"]
+	path = Deploy/Vagrant-kubeadm-k8s
+	url = https://github.com/scriptcamp/vagrant-kubeadm-kubernetes.git
